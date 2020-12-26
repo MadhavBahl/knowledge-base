@@ -17,5 +17,6 @@ Here are the knowledge chunks from Dec 2020
 | 5      | [The Law of Vital Few](./Dec2020/5/) |
 | 6      | [React Class Based vs Functional Component - Hooks](./Dec2020/6/) |
 | 7      | [Bonding Social Capital vs Bridging Social Capital](./Dec2020/7/) |
+| 8      | [5 Unspoken Rules of Bogging](./Dec2020/8/) |
 
 
