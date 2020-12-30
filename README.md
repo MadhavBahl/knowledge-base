@@ -18,5 +18,5 @@ Here are the knowledge chunks from Dec 2020
 | 6      | [React Class Based vs Functional Component - Hooks](./Dec2020/6/) |
 | 7      | [Bonding Social Capital vs Bridging Social Capital](./Dec2020/7/) |
 | 8      | [5 Unspoken Rules of Bogging](./Dec2020/8/) |
-
+| 9      | [Leverage positive mindset](./Dec2020/9/) |
 
