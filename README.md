@@ -20,3 +20,10 @@ Here are the knowledge chunks from Dec 2020
 | 8      | [5 Unspoken Rules of Bogging](./Dec2020/8/) |
 | 9      | [Leverage positive mindset](./Dec2020/9/) |
 
+## January 2021
+
+Here are some knowledge chunks from Jan 2021
+
+| S.No   |      Topic      |
+|--------|-----------------|
+| 1      | [Dealing with procrastination on the tasks you are afraid of](./Jan2021/1/) | 
