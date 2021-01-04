@@ -26,4 +26,6 @@ Here are some knowledge chunks from Jan 2021
 
 | S.No   |      Topic      |
 |--------|-----------------|
-| 1      | [Dealing with procrastination on the tasks you are afraid of](./Jan2021/1/) | 
+| 1      | [Dealing with procrastination on the tasks you are afraid of](./Jan2021/1/) |
+| 2      | [3 Tips for increasing self-accountability](./Jan2021/2/) |
+| 3      | [Seven Finance Tips from "The Richest Man In Babylon"](./Jan2021/3/) |
