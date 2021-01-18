@@ -31,3 +31,4 @@ Here are some knowledge chunks from Jan 2021
 | 3      | [Seven Finance Tips from "The Richest Man In Babylon"](./Jan2021/3/) |
 | 4      | [Two Components of Personal Branding](./Jan2021/4/) |
 | 5      | [4 Things that make a story worthwhile](./Jan2021/5/) |
+| 6      | [5 Steps from Planning to Product \| Product Ideation](./Jan2021/6/) |
