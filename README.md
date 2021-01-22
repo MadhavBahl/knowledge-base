@@ -32,3 +32,4 @@ Here are some knowledge chunks from Jan 2021
 | 4      | [Two Components of Personal Branding](./Jan2021/4/) |
 | 5      | [4 Things that make a story worthwhile](./Jan2021/5/) |
 | 6      | [5 Steps from Planning to Product \| Product Ideation](./Jan2021/6/) |
+| 7      | [5 Laws of gold from "The Richest Man in Babylon"](./Jan2021/7) |
